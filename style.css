@@ -90,8 +90,8 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(227, 227, 228);
-  border: 0px solid rgb(206, 197, 197);
+  background-color:  rgba(228, 220, 220, 0.742);
+ 
   border-radius: 50px;
 }
 .iconimg {
