@@ -48,7 +48,7 @@ input {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
   border-style: none;
-  background-color: rgba(228, 220, 220, 0.742);
+  background-color: transparent
 }
 h1 {
   text-align: center;
